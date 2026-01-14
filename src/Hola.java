@@ -4,5 +4,7 @@ public class Hola {
         System.out.println("Hola 2");
         System.out.println("Hola 3");
         System.out.println("Hola 4");
+        System.out.println("Hola");
+        System.out.println("Hola");
     }
 }
